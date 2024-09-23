@@ -6,5 +6,5 @@ export default function Component() {
     app_id: 'osdluh2g',
   });
 
-  return <div>Ignore this. Click on the app on the bottom right.</div>;
+  return <div>Click on the app on the bottom right.</div>;
 }
